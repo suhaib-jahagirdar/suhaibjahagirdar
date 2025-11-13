@@ -18,7 +18,7 @@ Currently exploring cloud infrastructure, serverless applications, and AI-powere
 ---
 
 ### 🌟 Featured Project
-**[PollyGenAI](https://github.com/suhaibjahagirdar/PollyGenAI)**  
+**[PollyGenAI](https://github.com/suhaib-jahagirdar/PollyGenAI)**  
 🎤 A text-to-speech generator using AWS Polly and Python.  
 Automates voice generation with a clean interface and S3 storage integration.
 
